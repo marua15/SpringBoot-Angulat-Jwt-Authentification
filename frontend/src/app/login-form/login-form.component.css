@@ -1,0 +1,38 @@
+
+div[fxLayout="row"] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+  }
+  
+  
+  .mat-tab-label {
+    min-width: auto; 
+  }
+  
+  .active-tab {
+    background-color: #007bff;
+    color: #fff; 
+  }
+  
+ 
+  .example-card {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+ 
+  .mat-form-field {
+    width: 100%;
+  }
+  
+  .btn-block {
+    width: 100%;
+    margin-top: 10px; 
+  }
+  
+  
+  .form-outline {
+    margin-bottom: 15px;
+  }
+  
